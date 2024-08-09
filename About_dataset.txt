@@ -25,7 +25,7 @@ Date: The date when the transaction took place.
 
 Time: The time of day when the transaction occurred.
 
-Payment: The payment method used (e.g., credit card, cash).
+Payment: The payment method used (e.g., credit card, cash). 
 
 COGS (Cost of Goods Sold): The direct costs associated with producing or purchasing the products sold.
 
